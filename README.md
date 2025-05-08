@@ -1,6 +1,6 @@
 # 🚀 ClarityML: Scalable, No-Code AutoML & Explainable AI Platform
 
----
+--- 
 
 ## 📌 Overview
 
